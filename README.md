@@ -46,3 +46,7 @@
 ## License
 
 [auto-green](https://github.com/justjavac/auto-green) is released under the MIT License. See the bundled [LICENSE](./LICENSE) file for details.
+
+
+
+![公众号：AI悦创.jpg](README.assets/公众号：AI悦创.jpg)
